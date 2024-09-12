@@ -8,16 +8,16 @@ The primary purpose of this tool is to automate the retrieval of reliable and up
 * Validation of VAT numbers to ensure compliance with local tax laws.
 
 ## APIs used:
-1. [IPify API] (https://www.ipify.org/): automatically retrieves the user's IP address without asking for input.
+1. [IPify API](https://www.ipify.org/): automatically retrieves the user's IP address without asking for input.
   
-2. [IPstack API] (https://ipstack.com/): gets the geographical details based on the IP address obtained from IPify API. For US based locations, it extract the state code. For international locations, it extracts the country code.
+2. [[IPstack API](https://ipstack.com/): gets the geographical details based on the IP address obtained from IPify API. For US based locations, it extract the state code. For international locations, it extracts the country code.
    
-3. [Tax Data API] (https://apilayer.com/marketplace/tax_data-api): gets the State/country code and displays the latest tax amounts. Allows for the validation of tax numbers and dsiplays relevant results.
+3. [Tax Data API](https://apilayer.com/marketplace/tax_data-api): gets the State/country code and displays the latest tax amounts. Allows for the validation of tax numbers and dsiplays relevant results.
 
 ## Setup Prerequisites:
 API keys for:
-* [IPstack API] (https://ipstack.com/)
-* [Tax Data API] (https://apilayer.com/marketplace/tax_data-api)
+* [IPstack API](https://ipstack.com/) 
+* [Tax Data API](https://apilayer.com/marketplace/tax_data-api)
 
 ## How to use:
 1. Choose an option from the main menu:
